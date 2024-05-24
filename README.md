@@ -19,11 +19,17 @@ We will use several AWS services to build our data pipeline and achieve our proj
 
 1. **Amazon S3**: Build and manage a data lake.
 2. **AWS Glue**: Cataloging and ETL jobs.
-3. **AWS Spark**: Data processing and transformations.
+3. **AWS Lambda**: Data processing and transformations (without creating or managing servers)
 4. **Amazon Athena**: Querying and analyzing data.
 5. **Amazon SNS**: Notifications.
 6. **AWS IAM**: Security and access management.
 7. **Dashboard Tools**: For data visualization.
+
+## Dataset Used
+
+This Kaggle dataset contains statistics (CSV files) on daily popular YouTube videos over the course of many months. There are up to 200 trending videos published every day for many locations. The data for each region is in its own file. The video title, channel title, publication time, tags, views, likes and dislikes, description, and comment count are among the items included in the data. A category_id field, which differs by area, is also included in the JSON file linked to the region.
+
+https://www.kaggle.com/datasets/datasnaek/youtube-new
 
 ## Project Steps
 
