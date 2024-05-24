@@ -19,7 +19,7 @@ We will use several AWS services to build our data pipeline and achieve our proj
 
 1. **Amazon S3**: Build and manage a data lake.
 2. **AWS Glue**: Cataloging and ETL jobs.
-3. **AWS Lambda**: Data processing and transformations (without creating or managing servers)
+3. **AWS Lambda using Spark**: Data processing and transformations (without creating or managing servers)
 4. **Amazon Athena**: Querying and analyzing data.
 5. **Amazon SNS**: Notifications.
 6. **AWS IAM**: Security and access management.
