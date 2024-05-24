@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-Welcome to the Data Engineering Project! In this project, we aim to help a client or company understand key aspects of running an online ad campaign on YouTube. Our primary goals are to categorize videos based on comments and stylistics, and to identify factors affecting the popularity of YouTube videos. By doing this, the client can make informed decisions before investing in their YouTube campaign.
+Welcome to the AdCampaign-Analytics Project! In this project, we aim to help a client or company understand key aspects of running an online ad campaign on YouTube. Our primary goals are to categorize videos based on comments and stylistics, and to identify factors affecting the popularity of YouTube videos. By doing this, the client can make informed decisions before investing in their YouTube campaign.
 
 ## Project Architecture
 ![Youtube Data Analysis AWS Project](https://github.com/tejasjbansal/AdCampaign-Analytics/assets/56173595/f679d2d3-6350-44c9-aa8e-5bc8d9b5df34)
