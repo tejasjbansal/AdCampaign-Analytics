@@ -68,7 +68,7 @@ https://www.kaggle.com/datasets/datasnaek/youtube-new
 2. **Set Up AWS Glue**: Configure AWS Glue for data cataloging and ETL jobs.
 3. **Configure IAM Roles**: Set up IAM roles and policies for accessing AWS services.
 4. **Data Ingestion Scripts**: Write and run scripts to ingest data into S3.
-5. **ETL Jobs**: Develop and deploy ETL jobs using AWS Glue and Spark.
+5. **ETL Jobs**: Develop and deploy ETL jobs using AWS Glue and Spark/lambda functions.
 6. **Query Data with Athena**: Use Athena to run SQL queries on the data.
 7. **Build Dashboard**: Use tools like Amazon QuickSight or other visualization tools to create the dashboard.
 
